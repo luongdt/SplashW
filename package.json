@@ -1,0 +1,29 @@
+{
+  "name": "SplashW",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "15.4.2",
+    "react-native": "0.41.2",
+    "react-native-drawer": "^2.2.6",
+    "react-native-pull-to-refresh": "^2.0.0",
+    "react-native-refresher": "^0.1.1",
+    "react-native-router-flux": "^3.31.2",
+    "react-native-spring-carousel": "^0.3.4",
+    "react-native-vector-icons": "^2.1.0",
+    "react-redux": "^4.4.5"
+  },
+  "devDependencies": {
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "18.1.0",
+    "react-test-renderer": "15.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

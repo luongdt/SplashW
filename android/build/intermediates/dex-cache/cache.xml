@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.2\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\infer-annotations-1.5_14874740d5c45a7062f14308f05b7c23f4a5baf3\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.11.0_da500b97bdceea867ae33951b10ddbc7c1147a58\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luongdt\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.0_99e4f02f2717e4c79c5ecb410cea8cd7f687a4ce\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.soloader-soloader-0.1.0_7c566956a8cd2772671fe740a83d0b0989fd8eb8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luongdt\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-3.4.1_39506d7ed4f00e35c0ee3282badc12a159332781\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luongdt\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_8bcca82a01f043d7eb9a9ba3d5bdc336c4e9b704\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.11.0_1872ffac792aafbbb573dc863736b2608688dcc4\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.react-react-native-0.41.2_d353f908987d5a2d53728ab29f71ac1d5ef6f3c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luongdt\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\staticlayout-proxy-1.0_55058b21d88a4fa194b02933c4c7146bdbd5f5ec\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_32df7f3955990d1cf06331dae57fbcb13d487ff9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luongdt\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_d25b38062c46be5faef7fa2bfcfc4de103f11339\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_017ac20636553ecb4454bea8a03773198e8e962d\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6b1053b3096ab95c3715ef4204bd6ab25c8388dc\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="747b80288b57e63421dcec6eac841a9653336dd2">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65434d5b6c68d5ec29a59be5faf99e1c194b8be3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luongdt\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_3c5073fa5add562769bd621a53791192e3ea667d\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_ec1e1afca9cc19c9ea188ed278240d4920c960bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luongdt\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.4.1_ac3b82b57b490e3206af4b406835c1cb4c253818\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ee6c8057a4b48af082ed4fad6b7e8f9b071bcd5e">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d925e9c2263c9ad42c58a8e65ac79cf1be4ee88f\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.11.0_46b0377a5125248575db3eddee7ac48515c49d6c\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_66088ffe97c5c8d3646718db56e36af452f9663a\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0e0780d4286d4c9e21386ee16658a446f038f852\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-okhttp3-0.11.0_86d244aa21b9e3b6edaad1e82f9b86eda89ae90f\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.11.0_2d44319e4a650498045c7363c2c7c5cadd19150c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luongdt\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_7bf63e314700a4a7a1e009edf61cc1b48dd02af7\classes.dex" />
+    </item>
+    <item
+        jar="G:\RA\SplashW\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.11.0_b1e07e7032186e051d65ce9efc5f431a026d219e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luongdt\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="G:\RA\SplashW\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_a3e1bcd4e3ec99d74f09d7e5706cc96dff728a0f\classes.dex" />
+    </item>
+
+</items>
